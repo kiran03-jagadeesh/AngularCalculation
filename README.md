@@ -204,7 +204,7 @@ h2{
   
 </Cylinder-Vol>
 
-<div class="footer">DEVELOPED BY: javith farkhan.S</div>
+<div class="footer">DEVELOPED BY: kiran.S</div>
 
     </div>
 
